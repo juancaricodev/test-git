@@ -1,3 +1,3 @@
-var quienSoy = 'Soy un archivo de JavaScript'
+var quienSoy = 'Soy un archivo de JavaScript';
 
-console.log(quienSoy)
+console.log(quienSoy);
